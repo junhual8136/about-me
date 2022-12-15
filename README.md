@@ -15,3 +15,6 @@
 6. Weight training
 7. Spanish
 8. English
+
+#### link to portfolio
+[link](junhual8136.github.io)
