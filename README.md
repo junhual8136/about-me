@@ -20,4 +20,4 @@
 [link](junhual8136.github.io).
 
 ### Some other things:
-I am a person living in **brooklyn, NYC** and my SSN is _123456789_. I like to play video games.
+I am a person living in **brooklyn, I like to play video games.
